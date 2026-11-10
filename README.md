@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Joel 👋
 
-<!--
-**Izkumberdu/Izkumberdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-stack Developer and Software Engineer specializing in backend architecture, cloud infrastructure automation, and security posture management. 
 
-Here are some ideas to get you started:
+### 🔭 What I'm currently working on
+* Building **Playmark**, a React and TypeScript-based Chromium browser extension that automatically tracks media playback progress and saves video timestamps.
+* Designing distributed background job queues and compliance data pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+* **Languages:** TypeScript, Python, Deno, PowerShell
+* **Frontend:** React
+* **Backend & API:** NestJS
+* **Databases:** PostgreSQL, DuckDB, TypeORM
+* **Infrastructure & Workflows:** Docker, macOS environments, Homebrew, mise, uv, Google Antigravity IDE
+
+### 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Izkumberdu&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izkumberdu&layout=compact&theme=radical" alt="Top Languages" />
+</div>
